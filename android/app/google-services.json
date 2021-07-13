@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681320289159",
+    "project_id": "engage-66e97",
+    "storage_bucket": "engage-66e97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681320289159:android:01e5ce9043ac2dc5f1f922",
+        "android_client_info": {
+          "package_name": "com.example.microsoft_engage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681320289159-9gk0mrj8mak1gcri4q75ealm0bci6vp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDDogeKxKlcb13kBA7i5ld8bUCZpMv5Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681320289159-9gk0mrj8mak1gcri4q75ealm0bci6vp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
